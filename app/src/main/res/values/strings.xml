@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Stiky Notes</string>
+    <string name="editText_title_hint">Title...</string>
+    <string name="editText_note_hint">Your note text...</string>
+    <string name="textView_title_hint">Title</string>
+    <string name="textView_note_hint">Text of your note</string>
+    <string name="textView_date_hint">Date</string>
+
+    <!--Toasts-->
+    <string name="toast_empty_description">Введите текст!</string>
+    <string name="toast_pinned">Закреплено!</string>
+    <string name="toast_unpinned">Откреплено!</string>
+    <string name="toast_del">Удалено!</string>
+
+    <!--MenuItems-->
+    <string name="menuItem_pin">Закрепить/Открепить</string>
+    <string name="menuItem_del">Удалить</string>
+    <string name="menuItem_background">Сменить тему</string>
+    <string name="menuItem_background_purple">Фиолтетовая</string>
+    <string name="menuItem_background_green">Зеленая</string>
+    <string name="menuItem_background_blue">Синяя</string>
+    <string name="menuItem_background_orange">Оранжевая</string>
+
+    <!--QueryHints-->
+    <string name="searchView_hint">Поиск...</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="@string/menuItem_background_blue"
+        android:id="@+id/card_theme_blue"/>
+    <item
+        android:title="@string/menuItem_background_purple"
+        android:id="@+id/card_theme_purple"/>
+    <item
+        android:title="@string/menuItem_background_green"
+        android:id="@+id/card_theme_green"/>
+    <item
+        android:title="@string/menuItem_background_orange"
+        android:id="@+id/card_theme_orange"/>
+
+</menu>

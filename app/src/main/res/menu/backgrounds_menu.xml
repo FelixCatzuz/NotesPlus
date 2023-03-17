@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item
+            android:title="@string/menuItem_background"
+            android:id="@+id/menu_themes">
+
+            <menu>
+                <group>
+                    <item
+                        android:title="@string/menuItem_background_blue"
+                        android:id="@+id/menuItem_theme_blue"/>
+                    <item
+                        android:title="@string/menuItem_background_purple"
+                        android:id="@+id/menuItem_theme_purple"/>
+                    <item
+                        android:title="@string/menuItem_background_green"
+                        android:id="@+id/menuItem_theme_green"/>
+                    <item
+                        android:title="@string/menuItem_background_orange"
+                        android:id="@+id/menuItem_theme_orange"/>
+                </group>
+            </menu>
+
+        </item>
+
+</menu>

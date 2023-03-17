@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!--RandomColor-->
+    <color name="color1">#6BCDDC39</color>
+    <color name="color2">#7EFFEB3B</color>
+    <color name="color3">#4803DAC5</color>
+    <color name="color4">#6A4CAF50</color>
+    <color name="color5">#6A9C27B0</color>
+    <color name="color6">#80FF5722</color>
+
+    <!--Backgrounds-->
+    <color name="blue">#992196F3</color>
+    <color name="purple">#659C27B0</color>
+    <color name="orange">#7CFF5722</color>
+    <color name="green">#708BC34A</color>
+
+    <!--Theme_Blue_CardColor-->
+    <color name="blue_1">#4D03A9F4</color>
+    <color name="blue_2">#83425DF6</color>
+    <color name="blue_3">#7500BCD4</color>
+    <color name="blue_4">#5E2196F3</color>
+    <color name="blue_5">#9E5A73FF</color>
+    <color name="blue_6">#68008EFF</color>
+
+    <!--Theme_Purple_CardColor-->
+    <color name="purple_1">#707E35FF</color>
+    <color name="purple_2">#799C00B6</color>
+    <color name="purple_3">#B59467FD</color>
+    <color name="purple_4">#6B87069E</color>
+    <color name="purple_5">#95D552EC</color>
+    <color name="purple_6">#7A9C00FF</color>
+
+    <!--Theme_Green_CardColor-->
+    <color name="green_1">#6BCDDC39</color>
+    <color name="green_2">#4BE8FF00</color>
+    <color name="green_3">#6085F800</color>
+    <color name="green_4">#6A7EFF83</color>
+    <color name="green_5">#8527C8B9</color>
+    <color name="green_6">#5E038074</color>
+
+    <!--Theme_Orange_CardColor-->
+    <color name="orange_1">#56FF1100</color>
+    <color name="orange_2">#9CFFA829</color>
+    <color name="orange_3">#6AFFBF00</color>
+    <color name="orange_4">#85FF0353</color>
+    <color name="orange_5">#8DFF7A22</color>
+    <color name="orange_6">#8FFFEB3B</color>
+</resources>
